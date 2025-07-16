@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-dotenv
+firebase-admin
+langchain
+openai
+pydantic
+googletrans==4.0.0-rc1
+whisper
